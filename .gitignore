@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# 数据与持久化缓存
+data/
+media/
+*.db
+*.db-journal
+*.sqlite3
+
+# 日志与临时文件
+*.log
+.DS_Store
+Thumbs.db
