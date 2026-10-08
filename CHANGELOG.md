@@ -4,6 +4,11 @@
 
 ---
 
+## [1.0.2] - 2026-10-08
+
+### 优化 (Changed)
+- 在 `README.md` 的开源生态致谢部分补充六音自定义音源仓库推荐链接（`https://github.com/pdone/lx-music-source`）。
+
 ## [1.0.1] - 2026-10-07
 
 ### 优化 (Changed)

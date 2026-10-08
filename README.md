@@ -10,6 +10,7 @@
 
 - **原作者 GitHub**：[lyswhut](https://github.com/lyswhut)
 - **官方项目列表**：[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
+- **自定义音源推荐**：[lx-music-source (六音自定义音源)](https://github.com/pdone/lx-music-source)
 - **官方文档中心**：[LX Music Document](https://lyswhut.github.io/lx-music-doc/)
 
 本项目作为落雪全家桶生态的独立服务端组件，旨在补全客户端“向好友/微信/移动端随时分享心爱歌曲”的最后一公里，遵循开源社区规范，所有代码完全开源透明。
