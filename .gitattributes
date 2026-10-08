@@ -1,0 +1,10 @@
+# AOCI baselines exact raw bytes, so a checkout must be byte-identical on
+# every platform: text always checks out LF, overriding any autocrlf rewrite
+# (the Windows default) that would otherwise mark the whole tree stale.
+# Binaries are auto-detected and left untouched.
+* text=auto eol=lf
+
+# GitHub Linguist 统计过滤（服务部署配置与运维脚本作为 vendored 忽略统计，保持 Python / HTML 核心清晰）
+*.conf linguist-vendored
+*.service linguist-vendored
+requirements.txt linguist-vendored
