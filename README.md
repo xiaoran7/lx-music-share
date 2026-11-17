@@ -4,6 +4,16 @@
 
 ---
 
+## 使用截图
+
+在本地启动分享服务，通过分享 API 创建示例音轨后，用移动尺寸的浏览器打开生成的分享链接实拍。
+
+| 分享播放页 | 全屏歌词 | 听友留言 |
+| --- | --- | --- |
+| ![含封面、播放控制和有效期的分享页](docs/screenshots/mobile-player.png) | ![展示示例歌词的全屏歌词页面](docs/screenshots/mobile-lyrics.png) | ![播放页内的听友留言列表和输入框](docs/screenshots/mobile-comments.png) |
+
+---
+
 ## 🌟 致敬原作者与开源生态
 
 落雪音乐生态由原作者 **[lyswhut (落雪无痕)](https://github.com/lyswhut)** 首创开发，其极简优雅的设计与自由可控的理念赢得了开源社区的广泛热爱。
